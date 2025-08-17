@@ -1,0 +1,21 @@
+{
+  "DIA_OldCityGuard_FirstWarn_03_01": "Oh oh ! Où comptes-tu aller ?",
+  "DIA_OldCityGuard_FirstWarn_15_02": "Plus loin.",
+  "DIA_OldCityGuard_FirstWarn_03_03": "Ta réputation te précède ! Va voir Roderich et règle ça avec lui.",
+  "DIA_OldCityGuard_FirstWarn_03_04": "D’ici là, pas d’entrée.",
+  "DIA_OldCityGuard_FirstWarn_03_07": "Désolé, selon les règles, seuls les gardes affectés à ce quartier ont accès à la Vieille Ville.",
+  "DIA_OldCityGuard_FirstWarn_03_11": "Pas de passage !",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_01": "Je ne savais pas qu’il fallait un laissez-passer pour ça.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_02": "Tu crois que je vais laisser passer n’importe qui ? Pas question, mon gars.",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_03": "Où obtenir un tel document ?",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_04": "Il te faudrait posséder une maison dans la Vieille Ville ou obtenir une autorisation d’un membre du Conseil de la Cité.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_05": "Et je parierais que tu n’as ni l’un ni l’autre.",
+  "DIA_OldCityGuard_FirstWarn_Why_15_01": "Pourquoi pas ?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_02": "Après tout, je suis citoyen de cette ville.",
+  "DIA_OldCityGuard_FirstWarn_Why_03_03": "Et as-tu un laissez-passer sur toi ?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_04": "De quel laissez-passer parles-tu ?",
+  "DIA_OldCityGuard_FirstWarn_Why_03_05": "D’un laissez-passer qui t’autorise à entrer dans la Vieille Ville.",
+  "DIA_OldCityGuard_SecondWarn_03_01": "Je t’ai dit quelque chose ! Qu’est-ce que tu n’as pas compris ?",
+  "DIA_OldCityGuard_LastWarn_03_01": "Tu l’auras voulu !",
+  "DIA_OldCityGuard_FirstWarn_15_06": "Ça ne te dérange pas, n’est-ce pas ? Je suis un garde de la ville."
+}
