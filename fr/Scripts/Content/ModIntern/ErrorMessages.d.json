@@ -1,11 +1,11 @@
 {
   "MOD_NAME": "Les Chroniques de Myrtana : Archolos",
-  "ERROR_LAA": "Large Address Aware non détecté, le jeu ne peut pas gérer plus de 2 Go de mémoire. Veuillez installer le patch 4GB, par exemple depuis https://ntcore.com/?page_id=371.",
-  "ERROR_SAVE_LANGUAGEMISMATCH": "Impossible de charger la sauvegarde, la langue de la sauvegarde ne correspond pas à la langue actuelle du jeu !",
-  "ERROR_SAVE_NOTCOMPATIBLE": "Impossible de charger la sauvegarde, elle n'est pas compatible avec la version actuelle du jeu. Si vous souhaitez continuer votre partie, veuillez changer de branche sur le launcher/Steam/GOG. Suivez ce guide rapide pour en savoir plus : https://thechroniclesofmyrtana.com/saves-compatibility",
-  "ERROR_KMLIB_2": "Fichier KmLib.dll introuvable ! Veuillez réinstaller l'application ou contacter le support technique. Code d'erreur : ",
-  "ERROR_KMLIB_126": "Impossible de charger la bibliothèque KmLib.dll ! Veuillez installer les derniers fichiers redistribuables de Visual Studio (https://aka.ms/vs/16/release/vc_redist.x86.exe et https://aka.ms/vs/16/release/vc_redist.x64.exe). Code d'erreur : ",
-  "ERROR_KMLIB_OTHER": "Impossible de charger la bibliothèque KmLib.dll ! Veuillez réinstaller l'application ou contacter le support technique. Code d'erreur : ",
-  "ERROR_KMLIB_GETPROCADDRESS": "Impossible de charger une fonction depuis la bibliothèque KmLib.dll ! Veuillez réinstaller l'application ou contacter le support technique. Code d'erreur : ",
-  "MESSAGE_VDFS_MISMATCH": "Version incorrecte de SystemPack détectée ! Le mod prend officiellement en charge uniquement SystemPack v1.8 pour le moment.\\nNous ne garantissons pas la compatibilité avec d'autres versions, d'autres patchs, Union, etc."
+  "ERROR_LAA": "Large Address Aware non détecté, le jeu ne peut pas gérer plus de 2 Go de mémoire. Veuillez installer le patch 4 Go, par exemple depuis https://ntcore.com/?page_id=371.",
+  "ERROR_SAVE_LANGUAGEMISMATCH": "Impossible de charger la sauvegarde, la langue de la sauvegarde ne correspond pas à celle du jeu actuel !",
+  "ERROR_SAVE_NOTCOMPATIBLE": "Impossible de charger la sauvegarde, elle n’est pas compatible avec la version actuelle du jeu. Si vous souhaitez continuer votre partie, veuillez changer de branche dans le lanceur/Steam/GOG. Suivez ce guide rapide à ce sujet : https://thechroniclesofmyrtana.com/saves-compatibility",
+  "ERROR_KMLIB_2": "Fichier KmLib.dll introuvable ! Veuillez réinstaller l’application ou contacter le support technique. Code d’erreur : ",
+  "ERROR_KMLIB_126": "Impossible de charger la bibliothèque KmLib.dll ! Veuillez installer les derniers fichiers redistribuables Visual Studio (https://aka.ms/vs/16/release/vc_redist.x86.exe et https://aka.ms/vs/16/release/vc_redist.x64.exe). Code d’erreur : ",
+  "ERROR_KMLIB_OTHER": "Impossible de charger la bibliothèque KmLib.dll ! Veuillez réinstaller l’application ou contacter le support technique. Code d’erreur : ",
+  "ERROR_KMLIB_GETPROCADDRESS": "Impossible de charger une fonction depuis la bibliothèque KmLib.dll ! Veuillez réinstaller l’application ou contacter le support technique. Code d’erreur : ",
+  "MESSAGE_VDFS_MISMATCH": "Mauvaise version de SystemPack détectée ! Le mod supporte officiellement uniquement SystemPack v1.8 pour l’instant.\\nNous ne garantissons pas la compatibilité avec d’autres versions, patchs ou Union, etc."
 }
