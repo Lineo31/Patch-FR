@@ -1,0 +1,21 @@
+{
+  "DIA_MIL_FMQ002_15_01": "Roderich m’a dit de me procurer une épée. Une idée ?",
+  "DIA_MIL_FMQ002_CanUShow_15_01": "Je peux voir ton épée ?",
+  "DIA_MIL_FMQ002_CanUShow_Rude_15_03": "Allez, pas de blabla.",
+  "DIA_MIL_FMQ002_NeedSword_15_01": "Il m’en faut une pour devenir garde.",
+  "DIA_MIL_FMQ002_SwordScheme_15_01": "J’aimerais en apprendre la conception afin de pouvoir en forger une moi-même.",
+  "DIA_MIL_FMQ002_WantToJoin_15_01": "Fais-moi confiance, je veux vous rejoindre.",
+  "DIA_MIL_FMQ002_HaveGold_15_01": "Et si je te donnais quelques pièces d’or en gage ?",
+  "DIA_MIL_FMQ002_SwordScheme_No_15_01": "Laisse tomber.",
+  "DIA_MIL_FMQ002_SwordScheme_Yes_15_02": "Ça devrait suffire pour moi. Voilà ton épée.",
+  "DIA_MIL_FMQ002_SwordScheme_Thanks_15_01": "Merci pour ton aide.",
+  "DIA_MIL_FMQ002_SwordScheme_MissingGold_15_01": "Hé ! Donne-moi le reste !",
+  "DIA_MIL_Roderich_15_02": "Je t’écoute.",
+  "DIA_MIL_Roderich_What_15_01": "Une visite de l’Émissaire royal ?",
+  "DIA_MIL_Roderich_What_15_03": "Le navire ? Où est-il maintenant ?",
+  "DIA_MIL_Roderich_Go_15_01": "Merci pour ton rapport.",
+  "DIA_MIL_Roderich_Go_15_02": "Rompez.",
+  "DIA_MIL_Late_15_04": "D’accord, je viendrai. Rompez.",
+  "DIA_MIL_GiveArmorBack_15_02": "Tu dis ?",
+  "DIA_MIL_FMQ002_SwordScheme_CheckOut_Choice": "(Abandonner l’épée)"
+}
