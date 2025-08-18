@@ -1,0 +1,20 @@
+{
+  "DIA_MARVIN_Q501Potion_15_01": "Oh, merde ! Mes mains tremblent encore... Je ne peux pas préparer une potion dans cet état !",
+  "PC_PotionAlchemy_Regenerate_Description": "Potions de restauration.",
+  "PC_Mana_Start_Description": "Préparer des potions de mana.",
+  "PC_Special_Start_Description": "Potions permanentes.",
+  "PC_PotionAlchemy_Timed_Description": "Potions temporaires.",
+  "PC_PotionAlchemy_Seed_Description": "Potions à base de graines.",
+  "PC_Health_Start_Description": "Préparer des potions de soins.",
+  "PC_PotionAlchemy_Other_Description": "Autres.",
+  "PC_PotionAlchemy_Other_Ore_Description": "Broyer des pépites de minerai magique.",
+  "PC_PotionAlchemy_Other_Ore_One_Description": "Broyer 1 pépite.",
+  "PC_PotionAlchemy_Other_Ore_Five_Description": "Broyer 5 pépites.",
+  "PC_PotionAlchemy_Other_Ore_Ten_Description": "Broyer 10 pépites.",
+  "PC_PotionAlchemy_Other_Ore_All_Description": "Broyer toutes les pépites.",
+  "PC_Poison_Start_Description": "Préparer du poison.",
+  "PC_Q501Potion_Start_Description": "Préparer la potion de Dagobert.",
+  "PC_Q307Potion_Start_Description": "Préparer le poison et l’antidote pour Ben.",
+  "PC_Poison_SQ228_Description": "Poison pour rats.",
+  "PC_Tabak_Start_Description": "Préparer des joints."
+}
