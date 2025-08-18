@@ -1,0 +1,23 @@
+{
+  "DIA_Sigund_QA304_StopRightThere_03_01": "Halte ! Que fais-tu ici ? J’ai tout vu ! Tu as transporté ces caisses depuis les docks et tu les as laissées dans cet entrepôt.",
+  "DIA_Sigund_QA304_StopRightThere_03_02": "Dis-moi tout de suite ce que contient la cargaison et si tu as les permis nécessaires.",
+  "DIA_Sigund_QA304_StopRightThere_Duster_15_01": "Où est Duster ?",
+  "DIA_Sigund_QA304_StopRightThere_Duster_03_02": "Il est tombé malade et ne peut pas s’éloigner d’un mètre des latrines. Crois-moi, je ne suis pas ravi de devoir prendre ses corvées !",
+  "DIA_Sigund_QA304_StopRightThere_Duster_03_03": "Pourquoi demandes-tu après lui ? Tu l’attendais ? Vous avez un arrangement ?! Parle !",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_15_01": "Peut-être qu’on peut s’arranger. Je suppose que flâner en ville la nuit n’est pas trop ton truc. On pourrait peut-être te payer une petite visite à la taverne ?",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_03_02": "Un garde en service doit rester sobre ! Ne crois pas que tu peux simplement m’acheter !",
+  "DIA_Sigund_QA304_StopRightThere_Stun_15_01": "Est-ce moi, ou bien c’est un feu là-bas ?",
+  "DIA_Sigund_QA304_StopRightThere_Stun_03_02": "Quoi ?",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_01": "Déplace l’huile.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_02": "Tu sais sûrement qu’elle ne doit pas être exposée au soleil, alors on s’en occupe la nuit. En journée elle perdrait ses propriétés.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_03_03": "Ouais, bien sûr je sais, mais ça sent vachement fort pour une huile.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_04": "C’est parce qu’elle n’a pas été exposée. Comme ça, elle brûlera mieux.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_03_05": "Ouais, d’accord. Très bien, tu peux continuer.",
+  "DIA_Sigund_QA304_StopRightThere_Gold_15_01": "Qu’il en soit ainsi. Pour la gloire de la patrie !",
+  "DIA_Sigund_Hello_03_01": "Et que puis-je faire en tant que garde ? Patrouilles, tours de garde, gérer les citoyens insolents.",
+  "DIA_Sigund_Ambient_03_01": "Comme en service, rien d’intéressant.",
+  "DIA_Sigund_Ambient_03_02": "Bien. J’espère ne plus jamais avoir à gérer des gens qui trimballent des caisses en pleine nuit.",
+  "DIA_Sigund_QA304_StopRightThere_Stun_Choice": "Est-ce moi, ou bien c’est un feu ? (Assommer)",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_Choice": "Peut-être qu’on peut s’arranger ? (Soudoyer)",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_Gold_Choice": "Qu’il en soit ainsi. Pour la gloire de la patrie ! (Donner 50 PO)"
+}
