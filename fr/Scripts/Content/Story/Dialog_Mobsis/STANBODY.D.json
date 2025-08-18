@@ -1,0 +1,14 @@
+{
+  "DIA_StanBody_CheckBody_15_01": "Le corps ne présente aucune blessure externe visible...",
+  "DIA_StanBody_CheckBody_15_02": "...cela ne signifie pas forcément qu’il a été empoisonné. Il a bien pu s’étouffer, après tout, vu comme il mangeait et buvait sans retenue.",
+  "DIA_StanBody_CheckThroat_15_01": "Ça pue encore plus que le reste...",
+  "DIA_StanBody_CheckThroat_15_02": "...mais je ne vois rien qui aurait pu provoquer un étouffement...",
+  "DIA_StanBody_CheckThroat_15_03": "Bien que la gorge paraisse visiblement irritée.",
+  "DIA_StanBody_CheckPockets_15_01": "Il n’y a rien d’intéressant ici...",
+  "DIA_StanBody_CheckPockets_15_02": "Quelques pièces d’or, une dague, et un pain intact.",
+  "DIA_StanBody_CheckFloor_15_01": "Stan gît dans une petite flaque du repas qu’il a mangé.",
+  "DIA_StanBody_CheckFloor_15_02": "Il en reste encore un peu dans le bol...",
+  "DIA_StanBody_CheckFood_15_01": "Le plat a effectivement une odeur très inhabituelle.",
+  "DIA_StanBody_CheckFood_15_02": "L’odeur est âcre et soufrée...",
+  "DIA_StanBody_CheckFood_15_03": "Je crois que c’est le seul indice dont je dispose pour l’instant..."
+}
