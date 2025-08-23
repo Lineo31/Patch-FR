@@ -1,0 +1,23 @@
+{
+  "DIA_WNRefugee_HELLO_03_01": "Désolé, c’est tellement humiliant !",
+  "DIA_WNRefugee_HELLO_03_02": "Je suis dans une situation très difficile et j’ai besoin d’aide !",
+  "DIA_WNRefugee_HELLO_15_03": "De quoi s’agit-il ?",
+  "DIA_WNRefugee_HELLO_03_04": "J’aimerais vous demander de me prêter 50 pièces d’or.",
+  "DIA_WNRefugee_HELLO_03_05": "Je ne suis pas un fainéant ni un parasite, je me suis simplement fait voler dès mon arrivée en ville.",
+  "DIA_WNRefugee_HELLO_03_06": "Si vous m’aidez, je vous jure que je rendrai l’or. Bien sûr, une fois que j’aurai trouvé du travail.",
+  "DIA_WNRefugee_FuckOff_15_01": "Je ne te crois pas et je ne te donnerai rien.",
+  "DIA_WNRefugee_FuckOff_03_02": "Monstre !",
+  "DIA_WNRefugee_FuckOff_03_03": "J’espère seulement que tu finiras dans une situation pire que la mienne !",
+  "DIA_WNRefugee_IsNice_15_01": "Tiens.",
+  "DIA_WNRefugee_IsNice_03_02": "Finalement, il y a quand même des gens bien dans cette ville.",
+  "DIA_WNRefugee_IsNice_03_03": "Dès que je trouverai un travail, je vous rendrai l’or, je vous le promets !",
+  "DIA_WNRefugee_GetLost_03_01": "Va embêter quelqu’un d’autre, créature sans cœur !",
+  "DIA_WNRefugee_ComeLater_03_01": "Dès que je gagnerai de l’argent, je vous rendrai l’or.",
+  "DIA_WNRefugee_YourGold_03_01": "Vous aviez sans doute perdu l’espoir de revoir cet or.",
+  "DIA_WNRefugee_YourGold_03_02": "Mais vous m’avez aidé dans mon heure de détresse, alors je tiendrai parole !",
+  "DIA_WNRefugee_YourGold_03_03": "Voici votre argent. Avec le surplus, comme promis !",
+  "DIA_WNRefugee_YourGold_15_04": "Merci pour ton honnêteté !",
+  "DIA_WNRefugee_YourGold_03_05": "Prenez soin de vous !",
+  "DIA_WNRefugee_Afterparty_03_01": "Encore merci de m’avoir fait confiance !",
+  "DIA_WNRefugee_IsNice_Choice": "Tiens. (Donner 50 PO)"
+}
