@@ -1,0 +1,19 @@
+{
+  "DIA_WorkerGuard_FIRSTWARN_03_01": "Halte-là ! Personne n’a le droit d’approcher des caisses !",
+  "DIA_WorkerGuard_SECONDWARN_03_01": "T’es sourd ou quoi ? Je t’ai dit quelque chose, dégage !",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_01": "Laisse-moi passer, je suis docker et j’ai besoin de bois.",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_02": "Depuis quand ? Je ne t’ai pas vu ici hier !",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_03": "Pas étonnant. Je viens juste d’être embauché.",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_04": "Comme c’est intéressant… Je vais demander à Dack si c’est vrai !",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_05": "C’est quoi ton problème ?",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_06": "Oh, rien ! Mais je crois que tu mijotes quelque chose !",
+  "DIA_WorkerGuard_KQ406_OfferMoney_Description": "Et si ça levait tes doutes ? (Payer 100 PO)",
+  "DIA_WorkerGuard_KQ406_OfferMoney_15_01": "Et si ça levait tes doutes ?",
+  "DIA_WorkerGuard_KQ406_OfferMoney_03_02": "Peut-être bien… du moment que tu ajoutes une bière bien fraîche.",
+  "DIA_WorkerGuard_KQ406_OfferMoney_03_03": "Tu n’imagines pas depuis combien de temps je poireaute ici. Ils ne filent même pas un verre à un copain.",
+  "DIA_WorkerGuard_KQ406_Give_Description": "Tiens ta bière. (Donner une bière et 100 PO)",
+  "DIA_WorkerGuard_KQ406_Give_15_01": "Tiens ta bière.",
+  "DIA_WorkerGuard_KQ406_Give_03_02": "Voilà exactement ce qu’il me fallait.",
+  "DIA_WorkerGuard_KQ406_Give_03_03": "Prends ton bois et retourne bosser. Les navires ne se construisent pas tout seuls.",
+  "DIA_WorkerGuard_KQ406_Give_03_04": "On dirait bien que tu as oublié de l’emporter."
+}
