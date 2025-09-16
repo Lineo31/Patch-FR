@@ -1,0 +1,21 @@
+{
+  "DIA_Joris_EXIT_15_01": "Je dois y aller.",
+  "DIA_Joris_EXIT_03_02": "Bon voyage.",
+  "DIA_Joris_Who_15_01": "Qui es-tu ?",
+  "DIA_Joris_Who_03_02": "Je me nomme Joris et je fais tourner ce moulin. Impressionnant, pas vrai ?",
+  "DIA_Joris_Who_Dunno_15_01": "Pour moi, c’est un moulin comme un autre... je n’y connais rien.",
+  "DIA_Joris_Who_Dunno_03_02": "Ce sont de véritables trésors de nos jours, particulièrement utiles lorsque la faim nous guette.",
+  "DIA_Joris_Who_Nice_15_01": "Impressionnant, en effet.",
+  "DIA_Joris_Who_Nice_03_02": "Il a été fabriqué par les meilleurs charpentiers d’Archolos, qui l’ont conçu à partir d’un nouveau concept.",
+  "DIA_Joris_Who_Nice_03_03": "Même les vents les plus violents ne peuvent pas le faire plier, grâce à sa construction solide et à sa base en pierre sur laquelle il pivote.",
+  "DIA_Joris_Who_Nice_03_04": "Bermar, le propriétaire de cette ferme, y a investi une fortune après que de récentes tempêtes aient détruit l’ancien.",
+  "DIA_Joris_Bermar_15_01": "Que peux-tu me dire sur Bermar ?",
+  "DIA_Joris_Bermar_03_02": "Il n’est pas des plus agréables, mais c’est un excellent négociateur.",
+  "DIA_Joris_Bermar_03_03": "Sans lui, cette ferme aurait été un trou perdu en marge de la civilisation.",
+  "DIA_Joris_Bermar_03_04": "Bermar prend mieux soin de sa ferme que de ses propres enfants.",
+  "DIA_Joris_Ambient_15_01": "Comment vas-tu ?",
+  "DIA_Joris_Ambient_03_02": "La meule tourne comme il faut, et la terre donne ses fruits.",
+  "DIA_Joris_Ambient_03_03": "Certains diront que c’est grâce aux dieux, mais pour moi, c’est simplement le résultat d’un travail acharné et d’un grand dévouement.",
+  "DIA_Joris_Ambient_03_04": "Comme le dit le vieil adage, on ne fait rien avec deux pierres émoussées.",
+  "DIA_Joris_Who_Dunno_Choice": "Je ne sais rien sur les moulins."
+}
