@@ -1,0 +1,17 @@
+{
+  "DIA_Astol_HELLO_03_01": "Salut, tu dois être épuisé après tout ce travail dans la mine d’or.",
+  "DIA_Astol_HELLO_03_02": "Allonge-toi un moment sur l’un de ces lits en peau de mouton, tu te reposeras un peu. Tu reprendras des forces et tu pourras repartir du bon pied.",
+  "DIA_Astol_HELLO_Yes_15_01": "Merci, un peu de sommeil me fera du bien.",
+  "DIA_Astol_HELLO_No_15_01": "Une autre fois, peut-être.",
+  "DIA_Astol_AfterSleep_03_01": "Alors, tu as bien dormi ?",
+  "DIA_Astol_AfterSleep_15_02": "Plutôt bien.",
+  "DIA_Astol_AfterSleep_03_03": "Parfait. Sept pépites d’or.",
+  "DIA_Astol_AfterSleep_15_04": "Tu n’as jamais dit qu’il fallait payer pour dormir !",
+  "DIA_Astol_AfterSleep_03_05": "Ça me semblait évident. Tu paies, ou je dois venir les prendre moi-même ?",
+  "DIA_Astol_AfterSleep_03_06": "Encore à moitié endormi ? Tu n’as pas oublié les sept pépites pour le service, j’espère ?",
+  "DIA_Astol_AfterSleep_Pay_15_01": "Très bien, prends les pépites.",
+  "DIA_Astol_AfterSleep_Pay_03_02": "Garçon malin. Si tu veux refaire une sieste, tu sais où me trouver.",
+  "DIA_Astol_AfterSleep_No_15_01": "Tu n’auras rien.",
+  "DIA_Astol_AfterFight_03_02": "Merci d’avoir profité de nos services, et reviens quand tu veux.",
+  "DIA_Astol_AfterFight_03_01": "Garde les pépites. Dégage de ma vue !"
+}
