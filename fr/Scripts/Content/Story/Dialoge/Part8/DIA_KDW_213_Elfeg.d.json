@@ -1,0 +1,20 @@
+{
+  "DIA_Elfeg_Hello_03_01": "Qu’est-ce qui t’amène parmi nous, jeune homme ?",
+  "DIA_Elfeg_Hello_Exit_15_01": "Rien...",
+  "DIA_Elfeg_Hello_03_02": "Ah oui ? Tu as besoin de quelque chose ?",
+  "DIA_Elfeg_Hello_Exit_03_02": "Alors pars en paix.",
+  "DIA_Elfeg_Hello_Jorn_03_02": "Malheureusement, c’est la première fois que j’en entends parler. Depuis longtemps, la communauté du monastère s’est coupée des affaires extérieures, et même ce genre de nouvelles n’y parvient plus.",
+  "DIA_Elfeg_Hello_Jorn_03_03": "Essaie de demander en ville, je suis sûr que quelqu’un pourra t’aider là-bas.",
+  "DIA_Elfeg_MayIEnter_15_01": "Puis-je entrer dans le monastère ?",
+  "DIA_Elfeg_MayIEnter_03_01": "Non. Le Prieur a interdit l’entrée aux étrangers, sauf aux malades et aux démunis qui n’ont nulle part où aller. Et tu n’en as pas l’air.",
+  "DIA_Elfeg_AboutKloster_03_01": "Le monastère abrite depuis toujours les mages de l’eau et leurs novices. C’est pour nous un lieu de prière, de travail et de méditation.",
+  "DIA_Elfeg_AboutKloster_03_02": "Si tu aimes l’histoire, je te conseille de lire les ouvrages qui en parlent. Certaines histoires liées à cet endroit sont vraiment fascinantes !",
+  "DIA_Elfeg_AboutKloster_03_03": "Volfzack savait ce qu’il faisait en acceptant de bâtir ce lieu. Sans le monastère, Archolos ne serait pas ce qu’elle est !",
+  "DIA_Elfeg_AboutWaterMages_03_01": "Tu le sais sans doute déjà, mais nous sommes les prêtres d’Adanos, gardiens de l’équilibre et protecteurs des malades.",
+  "DIA_Elfeg_AboutWaterMages_03_02": "Depuis que le Prieur a ordonné notre isolement, nous ne sommes plus libres de quitter l’île pour aider ceux qui souffrent à travers Archolos.",
+  "DIA_Elfeg_AboutWaterMages_03_03": "Seuls quelques mages triés sur le volet exercent encore hors de ces murs, la plupart en ville.",
+  "DIA_Elfeg_Ambient_03_01": "Le calme et la paix. J’ai tout le temps de méditer ici, ce qui peut être aussi apaisant qu’irritant.",
+  "DIA_Elfeg_Ambient_03_03": "Quand je pense à la situation actuelle sur l’île, je me demande quand le Prieur nous permettra enfin d’aller aider le peuple.",
+  "DIA_Elfeg_LetMeOut_15_01": "Pourriez-vous me laisser sortir ?",
+  "DIA_Elfeg_Hello_Jorn_Choice": "Je cherche mon frère."
+}
