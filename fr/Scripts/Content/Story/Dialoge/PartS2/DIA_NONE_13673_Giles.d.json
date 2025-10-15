@@ -1,0 +1,23 @@
+{
+  "DIA_Giles_KQ405_Search_15_01": "J’ai entendu dire que tu connais les égouts comme ta poche.",
+  "DIA_Giles_KQ405_Search_03_02": "Quelqu’un doit bien vérifier les environs pour repérer les nids qui pourraient nous menacer.",
+  "DIA_Giles_KQ405_Search_15_03": "Il y a un cadavre d’homme non loin d’ici. As-tu trouvé quelque chose sur lui ?",
+  "DIA_Giles_KQ405_Search_03_04": "Comme tu l’as sans doute remarqué, il y a plusieurs cadavres ici. Sois plus précis.",
+  "DIA_Giles_KQ405_Search_15_05": "Celui qui a la gorge tranchée.",
+  "DIA_Giles_KQ405_Search_03_06": "Oui. Je voulais voir s’il y avait quelque chose d’utile sur lui.",
+  "DIA_Giles_KQ405_Search_03_07": "À part la plus laide statuette d’Innos que j’aie jamais vue, il n’avait rien d’intéressant.",
+  "DIA_Giles_KQ405_Figure_15_01": "Tu as encore cette statuette ?",
+  "DIA_Giles_KQ405_Figure_03_02": "Oui, je pensais en tirer un peu d’or. Malheureusement, elle est tellement mal faite que personne n’en a voulu.",
+  "DIA_Giles_KQ405_Figure_03_03": "Si tu t’y intéresses, c’est qu’elle doit avoir de la valeur pour toi.",
+  "DIA_Giles_KQ405_Figure_03_04": "Je peux te la vendre pour... disons 250 pièces d’or.",
+  "DIA_Giles_KQ405_Figure_Give_15_01": "Très bien. Fais bon usage de cet or.",
+  "DIA_Giles_KQ405_Figure_Give_03_02": "Je le ferai. Peut-être qu’on pourra enfin sortir d’ici. Voilà ta statuette.",
+  "DIA_Giles_KQ405_Figure_Give_15_03": "Elle est vraiment affreuse. Il est temps que je m’en aille.",
+  "DIA_Giles_KQ405_Figure_Fight_15_01": "J’ai une meilleure offre. Tu me la donnes gratuitement, et je ne te fais pas de mal.",
+  "DIA_Giles_KQ405_Figure_Fight_03_02": "Tu vois combien on est ici ? Tu crois pouvoir nous affronter ?",
+  "DIA_Giles_KQ405_Figure_Fight_15_03": "Aucun problème.",
+  "DIA_Giles_KQ405_Figure_Fight_03_04": "Tu l’auras voulu !",
+  "DIA_Giles_KQ405_GiveGold_Descrption": "Je vais payer la statuette. (Donner 250 pièces d’or)",
+  "DIA_Giles_KQ405_Figure_Give_Choice": "Je paie. (Donner 250 pièces d’or)",
+  "DIA_Giles_KQ405_Figure_Fight_Choice": "Tu me la donnes gratuitement, et je ne te fais pas de mal."
+}
