@@ -1,0 +1,17 @@
+{
+  "DIA_ArenaGuard_ArenaNoInvite_15_01": "Qu’y a-t-il derrière ces barreaux ?",
+  "DIA_ArenaGuard_ArenaNoInvite_03_01": "C’est l’endroit réservé aux participants du tournoi. Tout le monde compte sur ta présence pour le prochain.",
+  "DIA_ArenaGuard_ArenaNoInvite_03_02": "C’est l’endroit réservé aux participants du tournoi. Ne t’inquiète pas, t’auras pas l’occasion de voir à quoi ça ressemble de l’intérieur.",
+  "DIA_ArenaGuard_ArenaNoInvite_Details_03_01": "Sous les gradins se trouve une cage spéciale pour différentes bêtes. Elle n’a pas servi depuis longtemps, mais apparemment Cortez et Proximo ont prévu quelque chose de spécial cette fois.",
+  "DIA_ArenaGuard_ArenaSignedIn_15_01": "Je fais partie des participants du tournoi.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_01": "Oui, j’ai entendu. J’ouvre la grille. Entre et installe-toi.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_02": "Si tu te débrouilles bien, tu risques d’y passer une bonne partie de la soirée.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_03": "Proximo doit encore être à l’intérieur. Il t’expliquera tout.",
+  "DIA_ArenaGuard_Q306_GiveUp_15_01": "J’en ai assez de ce combat, je veux abandonner le tournoi.",
+  "DIA_ArenaGuard_Q306_GiveUp_03_01": "Tu t’en sortais pourtant bien, t’es sûr de toi ?",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_15_01": "Oui.",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_03_01": "Comme tu veux, sans doute que Ben t’a fait peur.",
+  "DIA_ArenaGuard_Q306_GiveUp_No_15_01": "Non.",
+  "DIA_ArenaGuard_Q306_GiveUp_No_Choice": "Non",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_Choice": "Oui"
+}
