@@ -1,18 +1,8 @@
 {
-  "DIA_MIL_13407_Hello_03_01": "Oh, regarde ça, un nouveau visage.",
-  "DIA_MIL_13407_Hello_03_02": "Qu’est-ce que tu veux ?",
-  "DIA_MIL_13407_Hello_15_01": "Que fais-tu ici ?",
-  "DIA_MIL_13407_Hello_03_03": "J’ai été envoyé ici pour assurer la sécurité. Tu sais, montrer aux gens qu’il y a des gardes qui protègent la ville.",
-  "DIA_MIL_13407_Hello_15_02": "Et ?",
-  "DIA_MIL_13407_Hello_03_04": "Et rien. Je fais mon boulot. Tu ne me crois pas ?",
-  "DIA_MIL_13407_Hello_15_03": "Pas vraiment.",
-  "DIA_MIL_13407_Hello_03_05": "Écoute, gamin. Si tu veux vraiment le savoir : on m’a envoyé ici comme punition.",
-  "DIA_MIL_13407_Hello_15_04": "Punition ?",
-  "DIA_MIL_13407_Hello_03_06": "J’ai bu un peu trop lors de ma garde précédente. Le capitaine n’a pas aimé. Et voilà où j’en suis.",
-  "DIA_MIL_13407_Hello_15_05": "Tu sembles t’ennuyer.",
-  "DIA_MIL_13407_Hello_03_07": "Tu ne crois pas si bien dire. Je suis là toute la journée, à surveiller des pierres et des arbres. Passionnant, non ?",
-  "DIA_MIL_13407_Hello_15_06": "As-tu au moins vu quelque chose d’intéressant ?",
-  "DIA_MIL_13407_Hello_03_08": "Un chien errant... et un vieil ivrogne qui dormait dans le fossé. Voilà mes grandes aventures.",
-  "DIA_MIL_13407_Hello_15_07": "Eh bien, bonne chance avec ta garde.",
-  "DIA_MIL_13407_Hello_03_09": "Ouais, merci... Je suppose."
+  "DIA_13407_Militia_WhatAreYouGuarding_03_01": "Hein ? Qu... qu'est-ce que tu fais ici ?",
+  "DIA_13407_Militia_WhatAreYouGuarding_15_02": "Je ne fais que regarder autour de moi. Et toi, qu'est-ce que tu gardes ici ?",
+  "DIA_13407_Militia_WhatAreYouGuarding_03_03": "Moi, euh... Heuumm... Je... je... je garde...",
+  "DIA_13407_Militia_WhatAreYouGuarding_03_04": "C'est to... to... totalement top secret !",
+  "DIA_13407_Militia_WhatAreYouGuarding_03_05": "Allez, va boire une bière, et ne viens pas interrompre mon... heu... mon travail.",
+  "DIA_13407_Militia_DontDisturb_03_01": "Heuumm... N... non, me dérange pas !"
 }
