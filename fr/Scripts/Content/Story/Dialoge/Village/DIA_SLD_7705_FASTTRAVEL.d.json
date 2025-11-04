@@ -1,0 +1,23 @@
+{
+  "DIA_FASTTRAVEL_Q201_Refused_03_01": "Ils t’ont renvoyé les mains vides, pas vrai ?",
+  "DIA_FASTTRAVEL_Q201_Refused_15_02": "Apparemment, il me faut une sorte de laissez-passer.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_03": "Oui, les règles se sont durcies dernièrement. Si tu n’es pas citoyen, tu n’entreras pas sans une lettre officielle.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_04": "Mais tu as de la chance, je peux justement t’aider à entrer.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_05": "Je me rends à Silbach, tu pourrais en obtenir un auprès de l’ancien du village.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_06": "Je peux t’y emmener, si tu veux.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_15_01": "Et quel est ton intérêt là-dedans ?",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_02": "En tant que représentant de la Guilde des Marchands, comme beaucoup de mes collègues répartis sur l’île, j’offre des services d’escorte.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_03": "Pour quelques pièces, nous pouvons t’emmener vers tous les lieux importants de l’île.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_04": "Et comme je me rends déjà à Silbach, j’offre un tarif promotionnel.",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_15_01": "Il n’y aurait pas un autre moyen d’entrer en ville ?",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_03_02": "Je n’ai pas dit ça. Un laissez-passer reste le moyen le plus sûr, mais si tu avais un document prouvant qu’on t’envoie en ville pour une raison précise, on te laisserait sans doute passer.",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_03_03": "Et sinon, il y a toujours le bon vieux pot-de-vin, mais c’est risqué quand on ne sait ni à qui ni combien donner. La plupart des gardes sont de piètres serviteurs.",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_15_01": "Tu crois que les bûcherons pourraient me rédiger un tel document ?",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_03_02": "Ça ne coûte rien d’essayer ! Si tu veux, je peux te guider jusqu’au camp des charbonniers. De là, tu pourras facilement rejoindre Knut et ses hommes.",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_03_03": "En revanche, je devrai faire un petit détour par Silbach pour des affaires de Guilde.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_Description": "Emmène-moi à Silbach. (10 PO)",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_15_01": "Emmène-moi à Silbach.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_03_02": "Allons-y.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_03_03": "Il faut payer pour ça.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Unlocked_03_01": "Nous voilà arrivés. Si tu veux voyager plus loin, tu pourras me retrouver ici, ou bien l’un de mes collègues."
+}

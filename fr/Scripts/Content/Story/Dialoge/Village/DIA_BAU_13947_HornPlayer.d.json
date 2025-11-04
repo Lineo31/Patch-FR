@@ -1,0 +1,20 @@
+{
+  "DIA_HornPlayer_NS71_Before_03_01": "Ne me dérange pas ! Je dois m’entraîner !",
+  "DIA_HornPlayer_NS71_ShutUp_15_01": "Tu pourrais jouer moins fort ?",
+  "DIA_HornPlayer_NS71_ShutUp_15_02": "Certains aimeraient bien faire une pause sans entendre ton cor.",
+  "DIA_HornPlayer_NS71_ShutUp_03_03": "Quoi ? Je dois m’exercer, que ça te plaise ou non.",
+  "DIA_HornPlayer_NS71_Gold_15_01": "Je te paie pour que tu t’arrêtes.",
+  "DIA_HornPlayer_NS71_Gold_03_02": "Ah, voilà qui change les choses.",
+  "DIA_HornPlayer_NS71_Gold_03_03": "Très bien. Je vais faire une pause.",
+  "DIA_HornPlayer_NS71_Fight_15_01": "Si tu ne veux pas le faire gentiment, on va régler ça autrement.",
+  "DIA_HornPlayer_NS71_Fight_03_02": "On verra si tu fais encore le malin quand je t’aurai cassé le nez !",
+  "DIA_HornPlayer_NS71_AfterFight_03_01": "Pourquoi tu fais ça ? Je suis plus fort que toi !",
+  "DIA_HornPlayer_NS71_AfterFight_15_02": "Peut-être... mais je me demande ce qu’Albyn dira en apprenant qu’un fermier trouble la paix avec son vacarme et ses poings...",
+  "DIA_HornPlayer_NS71_AfterFight_03_03": "Quoi ? Bon, d’accord, d’accord. Je me tais, mais ne dis rien à Albyn à propos de notre bagarre !",
+  "DIA_HornPlayer_NS71_AfterFight_15_04": "Hmm. Très bien.",
+  "DIA_HornPlayer_NS71_AfterFight_03_05": "Sales réfugiés...",
+  "DIA_HornPlayer_NS71_AfterFight_15_09": "Alors, tu vas te taire ou tu veux que je t’en remette une ?",
+  "DIA_HornPlayer_NS71_AfterFight_03_10": "D’accord, j’arrête ! Ne me frappe pas !",
+  "DIA_HornPlayer_NS71_FuckOff_03_01": "Dégage !",
+  "DIA_HornPlayer_NS71_Gold_Choice": "Je te paie pour que tu t’arrêtes. (Donner 50 pièces d’or)"
+}

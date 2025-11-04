@@ -1,0 +1,19 @@
+{
+  "DIA_Ghost_SQ406_Fight_Description": "Un esprit ? T'as pas pu trouver quelque chose de plus stupide ? (Provoquer un combat)",
+  "DIA_Ghost_SQ406_Fight_15_01": "Un esprit ? T'as pas pu trouver quelque chose de plus stupide ?",
+  "DIA_Ghost_SQ406_Fight_03_02": "Qu'est-ce que t'as dit, espèce d'idiot ? Tu te prends pour qui maintenant ? Je vais te montrer ta place.",
+  "DIA_Ghost_SQ406_AfterFight_03_01": "Très bien, très bien, tu as gagné ! Mais si tu te moques encore de moi, je te retrouverai une nuit de pluie et je t'ouvrirai en deux.",
+  "DIA_Ghost_SQ406_AfterFight_15_02": "Je suis désolé, j'ai peut-être trop réagi. Je ne voulais pas me faire un ennemi. Que dirais-tu d'une potion de soins pour te remettre sur pied ?",
+  "DIA_Ghost_SQ406_AfterFight_03_03": "D'accord ! File ça, ma tête me fait mal comme si une bande de rats-taupes m'était passée dessus.",
+  "DIA_Ghost_SQ406_AfterFight_Transform_L_03_01": "Merci. Ça a le goût d'une vieille herbe bouillie. Je me sens tout de suite mieux !",
+  "DIA_Ghost_SQ406_AfterFight_Transform_M_03_01": "Qu'est-ce que tu m'as donné ? C'est dégueulasse !",
+  "DIA_Ghost_SQ406_AfterFight_Transform_M_03_02": "Si tu voulais me tuer, tu aurais pu le faire tout de suite, au lieu de me torturer avec cette merde. Fous-moi la paix !",
+  "DIA_Ghost_SQ406_AfterFight_Transform_H_03_01": "Merde, mon estomac... Aah !!!",
+  "DIA_Ghost_SQ406_Monster_03_02": "Espèce de ordure ! Je me doutais bien que tu complotais quelque chose. Maintenant tu vas payer pour ce que tu as fait !",
+  "DIA_Ghost_Q306_Reward_03_01": "Super spectacle dans l'arène. Rare de voir quelqu'un combattre avec autant de grâce. Accepte ces breloques en hommage à ton art.",
+  "DIA_Ghost_Q306_AfterTournament_03_01": "Fatigué après un combat ? Si tu prévois de faire la sieste, oublie l'Abri. Ces festins d'après-tournoi durent souvent plusieurs jours...",
+  "DIA_Ghost_Ambient_13_13": "Tu devrais pas plutôt parler à Cortez ?",
+  "DIA_Ghost_Ambient_13_14": "Je suis occupé pour l'instant, j'ai pas le temps de discuter.",
+  "DIA_Ghost_Ambient_13_15": "Probablement pas aussi bon que le nouveau maître de l'arène, donc je ne parle pas pour rien.",
+  "DIA_Ghost_Ambient_13_16": "C'est pas plus mal, au moins j'ai jamais été assez stupide pour me faire casser la gueule dans l'arène."
+}

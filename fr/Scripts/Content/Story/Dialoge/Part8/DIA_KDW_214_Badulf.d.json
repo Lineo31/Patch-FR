@@ -1,0 +1,20 @@
+{
+  "DIA_Badulf_FirstWarn_03_01": "Halte ! Nul n’a le droit de descendre au sous-sol du monastère sans autorisation !",
+  "DIA_Badulf_SecondWarn_03_01": "Demi-tour !",
+  "DIA_Badulf_LastWarn_03_01": "Adanos, donne-moi la force !",
+  "DIA_Badulf_Why_15_01": "Pourquoi ?",
+  "DIA_Badulf_Why_03_02": "C’est un ordre direct du Prieur. Seuls les Archimages y sont autorisés.",
+  "DIA_Badulf_What_15_01": "Qu’y a-t-il dans ce sous-sol ?",
+  "DIA_Badulf_What_03_02": "Derrière moi se trouvent les catacombes du monastère. Rien qui puisse t’intéresser, jeune homme.",
+  "DIA_Badulf_Angry_03_01": "Ne crois pas que j’ignore ta petite visite dans les catacombes.",
+  "DIA_Badulf_Angry_03_02": "Tu as de la chance qu’il ne manque rien de valeur là-bas, sinon Notger lui-même se serait occupé de ta peau.",
+  "DIA_Badulf_Pass_15_01": "Tu ne gardes plus l’entrée des catacombes ?",
+  "DIA_Badulf_Pass_03_02": "En ce moment, un autre mage monte la garde. Il est évident que nous devons parfois nous relayer.",
+  "DIA_Badulf_Pass_03_03": "Rester dans ces souterrains est peut-être une bonne façon de méditer, mais il faut bien respirer un peu d’air frais de temps à autre.",
+  "DIA_Badulf_Potion_15_01": "Pourrais-je obtenir quelques potions de soin ?",
+  "DIA_Badulf_Potion_03_02": "Tu n’as pas l’air malade, mais soit. Prends cette potion.",
+  "DIA_Badulf_Potion_03_03": "Mais la prochaine, tu la paieras. Le monastère a besoin de fonds pour aider les plus démunis.",
+  "DIA_Badulf_Ambient_03_01": "Je médite. Ne me dérange pas !",
+  "DIA_Badulf_Ambient_03_02": "Je t’ai déjà dit que je ne pouvais pas te laisser passer.",
+  "DIA_Badulf_Ambient_03_03": "Si tu crois pouvoir me déconcentrer, tu te trompes."
+}
