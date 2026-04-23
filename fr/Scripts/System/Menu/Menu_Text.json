@@ -2,7 +2,7 @@
 	"MENU_TEXT_BACK": "Retour",
 	"MENU_TEXT_OPTIONS_BACK": "Retour",
 	"MENU_TEXT_MAINMENU_NEWGAME": "Nouvelle partie",
-	"MENU_TEXT_MAINMENU_NEWGAME_CONFIRM": "Êtes-vous sûr ?",
+	"MENU_TEXT_MAINMENU_NEWGAME_CONFIRM": "Démarrer une nouvelle partie ?",
 	"MENU_TEXT_MAINMENU_NEWGAME_CONFIRM_YES": "Oui",
 	"MENU_TEXT_MAINMENU_NEWGAME_CONFIRM_YES_COMMENT": "Oui, je veux commencer une nouvelle partie.",
 	"MENU_TEXT_MAINMENU_NEWGAME_CONFIRM_NO": "Non",
